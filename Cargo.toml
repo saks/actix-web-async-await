@@ -1,3 +1,5 @@
+cargo-features = ["edition"]
+
 [package]
 name = "actix-web-async-await"
 description = "Provides a preview of Actix with async/await support."
